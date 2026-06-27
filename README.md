@@ -15,12 +15,11 @@
 ## 👨‍💻 About Me
 
 - 🎓 First-year **B.Tech CSE** student at **Ahmedabad Institute of Technology**
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Computer Vision**
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
 - 🚀 Building real-world AI projects to solve everyday problems
-- 🌱 Currently learning **DSA**, **Python**, and **Full-Stack Development**
-- 🎯 Long-term goal: **AI Engineer / Scientist at Google**
+- 🌱 Currently learning **DSA** and diving deep into **AI/ML**
+- 💡 Dream: Build my own **AI-powered startup** someday
 - 📍 Based in **Ahmedabad, Gujarat, India**
-
 ---
 
 ## 🛠️ Tech Stack
@@ -72,7 +71,7 @@
 
 ## 🏆 Certifications & Achievements
 
-- ☁️ **AWS Summit India — Champion Badge** (2025)
+- ☁️ **AWS Summit India — Champion Badge** (2026)
 - 🤖 Actively building AI projects since Year 1 of B.Tech
 
 ---
