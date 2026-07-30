@@ -1,10 +1,12 @@
 <div align="center">
 
-# Dhyan Patel
-
-**Venture Builder · Building AI-Powered Products from Idea to Ship**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=220&section=header&text=Dhyan%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Venture%20Builder%20%C2%B7%20AI%20Products&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70"/>
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhyanpatel1327-pixel)
@@ -18,7 +20,7 @@
 
 I build AI-powered products end-to-end — from identifying a real problem to shipping a working solution. My focus is on product thinking, not just writing code.
 
-- Building independent AI/ML products with a venture builder mindset
+- Building AI-powered products while sharpening core engineering fundamentals
 - Working across computer vision, applied machine learning, and full-stack development
 - Turning real-world problems into functional, deployable software
 - Based in Ahmedabad, Gujarat, India
