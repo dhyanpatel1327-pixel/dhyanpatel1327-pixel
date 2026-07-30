@@ -31,6 +31,14 @@ I build AI-powered products end-to-end — from identifying a real problem to sh
 
 <br/>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/matiassingers/matiassingers/master/img/hacker.gif" width="400"/>
+
+</div>
+
+<br/>
+
 ## Tech Stack
 
 <div align="center">
