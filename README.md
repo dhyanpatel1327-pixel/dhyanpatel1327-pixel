@@ -26,16 +26,29 @@ I build AI-powered products end-to-end — from identifying a real problem to sh
 
 ## Tech Stack
 
-<div align="center">
+**Languages**
 
+![C++](https://img.shields.io/badge/C++-2b2b2b?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-2b2b2b?style=flat-square&logo=c&logoColor=white)
-![React](https://img.shields.io/badge/React-2b2b2b?style=flat-square&logo=react&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-2b2b2b?style=flat-square&logo=fastapi&logoColor=white)
+
+**AI / Machine Learning**
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-2b2b2b?style=flat-square&logo=opencv&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-2b2b2b?style=flat-square&logo=scikit-learn&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-2b2b2b?style=flat-square&logo=google&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2b2b2b?style=flat-square&logo=pandas&logoColor=white)
+
+**Backend & Frontend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-2b2b2b?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-2b2b2b?style=flat-square&logo=react&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-2b2b2b?style=flat-square&logo=firebase&logoColor=white)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-2b2b2b?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-2b2b2b?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
