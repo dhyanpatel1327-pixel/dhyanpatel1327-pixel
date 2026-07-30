@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhyanpatel1327-pixel)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](www.linkedin.com/in/dhyan-patel-2a5a91360)
+[![GitHub](https://github.com/dhyanpatel1327-pixel)
+[![Gmail](dhyanpatel1327@gmail.com)
 
 </div>
 
