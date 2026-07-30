@@ -91,8 +91,7 @@
 
 ## 🤝 Let's Connect
 
-I'm actively looking for **internship opportunities** in AI/ML and Software Development.  
-Feel free to reach out — always open to learning, collaborating, and building!
+always open to learning, collaborating, and building!
 
 <p align="center">
   <a href="https://linkedin.com/in/dhyanpatel1327">LinkedIn</a> ·
