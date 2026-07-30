@@ -38,16 +38,20 @@ I build AI-powered products end-to-end — from identifying a real problem to sh
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-2b2b2b?style=flat-square&logo=scikit-learn&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-2b2b2b?style=flat-square&logo=google&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2b2b2b?style=flat-square&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2b2b2b?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-2b2b2b?style=flat-square&logo=openai&logoColor=white)
 
 **Backend & Frontend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-2b2b2b?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-2b2b2b?style=flat-square&logo=react&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-2b2b2b?style=flat-square&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2b2b2b?style=flat-square&logo=postgresql&logoColor=white)
 
-**Tools**
+**Tools & Deployment**
 
 ![Git](https://img.shields.io/badge/Git-2b2b2b?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2b2b2b?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-2b2b2b?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
