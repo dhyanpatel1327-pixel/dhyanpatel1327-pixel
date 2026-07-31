@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=220&section=header&text=Dhyan%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=220&section=header&text=Dhyan%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Venture%20Builder%20%C2%B7%20AI%20Products&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70"/>
+<br/>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Venture+Builder;Building+AI-Powered+Products;Computer+Vision+%2B+Machine+Learning;Turning+Ideas+Into+Shipped+Software" alt="Typing SVG" />
+<img src="https://cdn.simpleicons.org/github/58a6ff" width="80" height="80"/>
 
 <br/><br/>
 
@@ -28,13 +26,6 @@ I build AI-powered products end-to-end — from identifying a real problem to sh
 - Working across computer vision, applied machine learning, and full-stack development
 - Turning real-world problems into functional, deployable software
 - Based in Ahmedabad, Gujarat, India
-<br/>
-
-<div align="center">
-
-<img src="banner.jpg" width="500"/>
-
-</div>
 
 <br/>
 
@@ -99,26 +90,11 @@ Currently building the next AI-powered product
 
 <br/>
 
-## GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhyanpatel1327-pixel&show_icons=true&theme=default&hide_border=true&hide_title=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhyanpatel1327-pixel&hide_border=true&background=0d1117&stroke=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dhyanpatel1327-pixel&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10" />
-
-</div>
-
-<br/>
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dhyanpatel1327-pixel/dhyanpatel1327-pixel/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dhyanpatel1327-pixel&show_icons=true&theme=default&hide_border=true&hide_title=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="60%" />
 
 </div>
 
