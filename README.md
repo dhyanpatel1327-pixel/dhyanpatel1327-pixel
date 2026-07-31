@@ -28,12 +28,11 @@ I build AI-powered products end-to-end — from identifying a real problem to sh
 - Working across computer vision, applied machine learning, and full-stack development
 - Turning real-world problems into functional, deployable software
 - Based in Ahmedabad, Gujarat, India
-
 <br/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/matiassingers/matiassingers/master/img/hacker.gif" width="400"/>
+<img src="banner.jpg" width="500"/>
 
 </div>
 
