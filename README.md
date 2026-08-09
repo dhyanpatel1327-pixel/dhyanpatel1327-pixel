@@ -23,10 +23,10 @@
 I build AI-powered products end-to-end — from identifying a real problem to shipping a working solution. My focus is on **product thinking**, not just writing code.
 
 ```yaml
-role: "AI Product Builder"
+role: "Venture Builder · AI Product Builder"
 location: "Ahmedabad, Gujarat, India"
 currently_building: ["ScamShield AI", "StyleFY"]
-interests: ["Computer Vision", "LLMs", "Applied ML", "Fintech Safety"]
+interests: ["LLMs", "Applied ML", "Community Building", "AI Startups"]
 ```
 
 - 🛠️ Building AI-powered products across fintech safety, computer vision, and consumer apps
