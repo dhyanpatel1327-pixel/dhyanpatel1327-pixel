@@ -89,12 +89,12 @@ AI-powered outfit combination platform for Gen-Z
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhyanpatel1327-pixel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=dhyanpatel1327-pixel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
 <img src="https://streak-stats.demolab.com?user=dhyanpatel1327-pixel&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyanpatel1327-pixel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dhyanpatel1327-pixel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" />
 
 </div>
 
