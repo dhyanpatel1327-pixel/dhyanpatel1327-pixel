@@ -1,6 +1,6 @@
 <div align="center">
 
-https://raw.githubusercontent.com/dhyanpatel1327-pixel/dhyanpatel1327-pixel/refs/heads/main/dancing-name-banner.svg
+<img src="https://raw.githubusercontent.com/dhyanpatel1327-pixel/dhyanpatel1327-pixel/refs/heads/main/dancing-name-banner.svg" width="100%"/>
 
 <br/>
 
